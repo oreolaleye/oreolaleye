@@ -3,7 +3,7 @@
 - 🌱 I use React, Node JS and MongoDB
 - 🌱 I'm currently learning Java, PHP and MySQL
 - 💞️ I’m looking to collaborate on Frontend Web Development
-- 📫 How to reach me olaleyeoreoluwa1@gmail.com, https://oreolaleye.com.ng
+- 📫 How to reach me olaleyeoreoluwa1@gmail.com
 
 <!---
 oreolaleye/oreolaleye is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
