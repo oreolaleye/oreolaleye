@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ore Olaleye
 - 👀 I’m interested in Web development
-- 🌱 I use React, Node JS and Ruby
-- 🌱 I'm currently learning PHP and MySQL
+- 🌱 I use React, Node JS, Ruby and MySQL
+- 🌱 I'm currently learning PHP 
 - 💞️ I’m looking to collaborate on Full Stack Web Development
 - 📫 How to reach me olaleyeoreoluwa1@gmail.com
 
